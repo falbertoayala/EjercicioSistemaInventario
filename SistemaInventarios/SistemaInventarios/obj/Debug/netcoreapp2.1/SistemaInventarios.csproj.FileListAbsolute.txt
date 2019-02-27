@@ -1,0 +1,14 @@
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\bin\Debug\netcoreapp2.1\SistemaInventarios.deps.json
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\bin\Debug\netcoreapp2.1\SistemaInventarios.runtimeconfig.json
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\bin\Debug\netcoreapp2.1\SistemaInventarios.runtimeconfig.dev.json
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\bin\Debug\netcoreapp2.1\SistemaInventarios.dll
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\bin\Debug\netcoreapp2.1\SistemaInventarios.pdb
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.RazorAssemblyInfo.cache
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.RazorAssemblyInfo.cs
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.AssemblyInfoInputs.cache
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.AssemblyInfo.cs
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.RazorTargetAssemblyInfo.cache
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.dll
+C:\Users\Francisco\source\repos\SistemaInventarios\SistemaInventarios\obj\Debug\netcoreapp2.1\SistemaInventarios.pdb
